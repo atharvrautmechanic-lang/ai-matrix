@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+python-dotenv
+requests
+matplotlib
+geopandas
+shapely
+scipy
